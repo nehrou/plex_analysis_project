@@ -1,6 +1,8 @@
 # Plex Server Media Consumption
 This project is designed to leverage data from a local Plex server, utilizing an API to gather detailed insights into media consumption patterns. The primary goal is to create an interactive dashboard that visualizes various metrics related to user activity and content preferences within the Plex environment.
 
+![image](https://github.com/nehrou/plex_analysis_project/assets/68121902/b4b34912-788f-4dd7-9666-a656b1877896)
+
 
 ## Key Features
 * Data Extraction: Utilizes Plex's API to fetch data directly from a local Plex server, ensuring real-time and accurate information about media consumption.
